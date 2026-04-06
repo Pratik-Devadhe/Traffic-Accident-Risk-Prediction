@@ -87,7 +87,7 @@ The system combines **data preprocessing, exploratory data analysis (EDA), featu
 
 The confusion matrix helps visualize model performance by comparing actual vs predicted values.
 
-![Confusion Matrix](images/newplot(2).png)
+![Confusion Matrix](images/newplot(1).png)
 
 ---
 
